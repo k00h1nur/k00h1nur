@@ -47,6 +47,9 @@
 <img align="center"   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k00h1nur&layout=compact&theme=default" alt=k00h1nur />
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=k00h1nur&show_icons=true&locale=en&theme=default" alt="k00h1nur" />
+<p>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=k00h1nur&theme=default" alt="k00h1nur" />
+</p>
 
 </div>
 
