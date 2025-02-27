@@ -14,7 +14,8 @@
 - 👨‍💻 All my projects are available at **[GitHub Profile](https://github.com/k00h1nur)**
 - ⚡ Fun fact: **My hobby is creating database architecture**
 
-<hr style="border: 2px solid #ff5733;">
+────────── ✦✦✦ ──────────
+
 
 
 ## 🌐 **Connect with Me**
