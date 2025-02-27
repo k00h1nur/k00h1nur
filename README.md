@@ -15,16 +15,7 @@
 - ⚡ Fun fact: **My hobby is creating database architecture**
 - 📄 **[View My Resume](https://github.com/k00h1nur/resume.pdf)** 📑
 
-<div class="divider"></div>
-
-<style>
-.divider {
-    height: 5px;
-    background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.6), rgba(255, 255, 255, 0));
-    border-radius: 5px;
-    margin: 20px 0;
-}
-</style>
+---
 
 ## 🌐 **Connect with Me**
 <p align="center">
