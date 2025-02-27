@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sevinch</h1>
 
-<p align="center">
-  <a href="https://github.com/k00h1nur">
-    <img src="https://komarev.com/ghpvc/?username=k00h1nur&label=👀 Profile%20views 👀&color=ff4500&style=for-the-badge" alt="Profile views" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge&logo=github" alt="Profile views" />
+
 
 
 ## 🚀 About Me
