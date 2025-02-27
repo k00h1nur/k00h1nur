@@ -20,11 +20,8 @@
   <a href="https://instagram.com/k00h1nur" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://github.com/k00h1nur" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
   <a href="https://t.me/k00h1nur" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="Telegram" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" style="filter: invert(1);" />
   </a>
 </p>
 
