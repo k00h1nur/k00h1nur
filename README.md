@@ -64,32 +64,5 @@
 
 ---
 
-## 📌 **Most Used Repositories**
-<p align="center">
-  <a href="https://github.com/k00h1nur/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k00h1nur&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/k00h1nur/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k00h1nur&repo=project2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## ⏳ **Coding Time**
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k00h1nur&theme=tokyonight" height="180em" />
-</p>
-
----
-
-## 🎵 **Now Playing**
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id" width="400" />
-</p>
-
----
-
-🔗 **View my Portfolio** → [k00h1nur.github.io](https://k00h1nur.github.io)  
 📩 **Let's connect!** Feel free to reach out for collaborations or discussions.
 
