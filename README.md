@@ -1,43 +1,95 @@
 <h1 align="center">Hi 👋, I'm Sevinch</h1>
 
+<p align="center">
+  <a href="https://github.com/k00h1nur">
+    <img src="https://komarev.com/ghpvc/?username=k00h1nur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+## 🚀 About Me
+
 - 🌱 I’m currently learning **C#, Angular, MAUI**
 - 💬 Ask me about **C#, C, C++, Python**
-- 📫 How to reach me **xayiddinovasevinch@gmail.com**
-- 👨‍💻 All of my projects are available at **[k00h1nur](https://github.com/k00h1nur)**
-- ⚡ Fun fact **My hobby is creating database architecture**
-- 📄 **[Check My Resume]([https://github.com/k00h1nur/resume.pdf](https://drive.google.com/file/d/1bdCUZ43eLk9RezmzFmHGHu-kRPfPemlJ/view?usp=sharing))**  <!-- PDF faylga havola -->
+- 📫 Reach me at **xayiddinovasevinch@gmail.com**
+- 👨‍💻 All my projects are available at **[GitHub Profile](https://github.com/k00h1nur)**
+- ⚡ Fun fact: **My hobby is creating database architecture**
+- 📄 **[View My Resume](https://github.com/k00h1nur/resume.pdf)** 📑
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
+## 🌐 **Connect with Me**
+<p align="center">
   <a href="https://linkedin.com/in/sevinch-xayriddinova-b324b0267/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/k00h1nur/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" />
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://instagram.com/k00h1nur" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/k00h1nur" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=telegram" height="30" />
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 </p>
 
 ---
 
-### 📄 **Resume Preview**
+## 🛠 **Languages and Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,dotnet,angular,mysql,postgres,sqlite,docker" height="50" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k00h1nur&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k00h1nur&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+---
+
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=k00h1nur&theme=onedark&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 📄 **Resume Preview**
 <p align="center">
   <img src="https://github.com/k00h1nur/resume.png" width="600px" />
 </p>
 
 ---
 
-### 📊 **GitHub Stats**
+## 📌 **Most Used Repositories**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k00h1nur&show_icons=true&theme=transparent&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k00h1nur&layout=compact&theme=transparent&hide_border=true" height="180em" />
+  <a href="https://github.com/k00h1nur/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k00h1nur&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/k00h1nur/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k00h1nur&repo=project2&theme=tokyonight" />
+  </a>
 </p>
 
 ---
+
+## ⏳ **Coding Time**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k00h1nur&theme=tokyonight" height="180em" />
+</p>
+
+---
+
+## 🎵 **Now Playing**
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id" width="400" />
+</p>
+
+---
+
+🔗 **View my Portfolio** → [k00h1nur.github.io](https://k00h1nur.github.io)  
+📩 **Let's connect!** Feel free to reach out for collaborations or discussions.
+
