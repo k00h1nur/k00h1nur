@@ -15,8 +15,7 @@
 - ⚡ Fun fact: **My hobby is creating database architecture**
 - 📄 **[View My Resume](https://github.com/k00h1nur/resume.pdf)** 📑
 
-<img src="https://raw.githubusercontent.com/Kohinur0124/assets/main/3d-divider.png" alt="3D Divider" width="100%">
-
+---
 
 ## 🌐 **Connect with Me**
 <p align="center">
