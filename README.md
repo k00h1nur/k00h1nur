@@ -14,7 +14,7 @@
 - 👨‍💻 All my projects are available at **[GitHub Profile](https://github.com/k00h1nur)**
 - ⚡ Fun fact: **My hobby is creating database architecture**
 
-<img src="https://raw.githubusercontent.com/Kohinur0124/assets/main/gradient-divider.png" alt="Gradient Divider" width="100%">
+<hr style="border: 2px solid #ff5733;">
 
 
 ## 🌐 **Connect with Me**
