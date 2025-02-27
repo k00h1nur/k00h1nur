@@ -47,19 +47,16 @@
 <img align="center"   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k00h1nur&layout=compact&theme=default" alt=k00h1nur />
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=k00h1nur&show_icons=true&locale=en&theme=default" alt="k00h1nur" />
-<p>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=k00h1nur&theme=default" alt="k00h1nur" />
-</p>
 
 </div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Kohinur0124">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kohinur0124&theme=graywhite" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kohinur0124&theme=graywhite" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kohinur0124&theme=graywhite" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kohinur0124&theme=graywhite" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kohinur0124&theme=graywhite" height="180em" />
+<a href="https://github.com/k00h1nur">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k00h1nur&theme=graywhite" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k00h1nur&theme=graywhite" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k00h1nur&theme=graywhite" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k00h1nur&theme=graywhite" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k00h1nur&theme=graywhite" height="180em" />
 </div>
