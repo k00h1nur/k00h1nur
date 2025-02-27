@@ -14,9 +14,6 @@
 - 👨‍💻 All my projects are available at **[GitHub Profile](https://github.com/k00h1nur)**
 - ⚡ Fun fact: **My hobby is creating database architecture**
 
-──────────────────────────────────────── ✦✦✦ ────────────────────────────────────────
-
-
 
 ## 🌐 **Connect with Me**
 <p align="center">
@@ -34,14 +31,15 @@
   </a>
 </p>
 
----
+
 
 ## 🛠 **Languages and Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,dotnet,angular,mysql,postgres,sqlite,docker" height="50" />
 </p>
 
----
+
+
 
 ## 📊 **GitHub Stats**
 <p align="center">
@@ -49,21 +47,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k00h1nur&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
----
+
+
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=k00h1nur&theme=onedark&no-bg=true&margin-w=15" />
 </p>
 
----
+
+
 
 ## 📄 **Resume Preview**
 <p align="center">
   <img src="https://github.com/k00h1nur/k00h1nur/blob/main/Resume.png" width="600px" />
 </p>
 
----
+
+
 
 📩 **Let's connect!** Feel free to reach out for collaborations or discussions.
 
