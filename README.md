@@ -13,7 +13,6 @@
 - 📫 Reach me at **xayiddinovasevinch@gmail.com**
 - 👨‍💻 All my projects are available at **[GitHub Profile](https://github.com/k00h1nur)**
 - ⚡ Fun fact: **My hobby is creating database architecture**
-- 📄 **[View My Resume](https://github.com/k00h1nur/resume.pdf)** 📑
 
 ---
 
