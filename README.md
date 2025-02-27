@@ -59,7 +59,7 @@
 
 ## 📄 **Resume Preview**
 <p align="center">
-  <img src="https://github.com/k00h1nur/resume.png" width="600px" />
+  <img src="kResume.png" width="600px" />
 </p>
 
 ---
