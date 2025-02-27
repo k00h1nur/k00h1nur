@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/k00h1nur">
-   <img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge&logo=github" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=k00h1nur&label=Profile%20Views&color=blue&style=for-the-badge&logo=github" alt="Profile views" />
   </a>
 </p>
 
