@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/k00h1nur">
-    <img src="https://komarev.com/ghpvc/?username=k00h1nur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=k00h1nur&label=👀 Profile%20views 👀&color=ff4500&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
+
 
 ## 🚀 About Me
 
